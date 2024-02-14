@@ -1,2 +1,7 @@
 pandas
 numpy
+laspy[laszip]
+lazrs
+geopandas
+matplotlib
+scikit-learn
